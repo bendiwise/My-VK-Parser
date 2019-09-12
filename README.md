@@ -1,4 +1,4 @@
-Дисклеймер: Этот джупитер ноутбук, а также модули vkparser и myplots были созданы единственно с целью появления на гитхабе минимального демонстрационного куска кода. 
+Дисклеймер: джупитер ноутбук [Parsing VK friends list](https://github.com/bendiwise/My-VK-Parser/blob/master/Parsing%20VK%20friends%20list.ipynb), а также модули [vkparser](https://github.com/bendiwise/My-VK-Parser/blob/master/vkparser.py) и [myplots](https://github.com/bendiwise/My-VK-Parser/blob/master/myplots.py) были созданы единственно с целью появления на гитхабе минимального демонстрационного куска кода. 
 
 # MyVKParser
 
